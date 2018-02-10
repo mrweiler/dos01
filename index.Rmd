@@ -1,0 +1,23 @@
+---
+title: <small>Introduction to digital open science</small>
+author: <small>Matthias Weiler</small>
+date: <small>14.02.2018</small>
+output: 
+  revealjs::revealjs_presentation:
+    theme: black
+    center: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# <small>Who am I?</small>
+
+----
+
+My name is Matthias Weiler
+
+----
+
+I am a psychologist
