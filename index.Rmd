@@ -2,7 +2,7 @@
 title: <small>Introduction to digital open science</small>
 author: <small>Matthias Weiler</small>
 date: <small>14.02.2018</small>
-output: 
+output:
   revealjs::revealjs_presentation:
     theme: black
     center: TRUE
@@ -21,3 +21,61 @@ My name is Matthias Weiler
 ----
 
 I am a psychologist
+
+----
+
+I am a psychotherapist
+
+----
+
+I work as a research assistant <br>at Freie Universität Berlin
+
+----
+
+I am a nerd
+
+----
+
+I like free software
+
+----
+
+I like open science
+
+# <small>Who are you?</small>
+
+----
+
+Please raise your hand ...
+
+----
+
+If you study psychology
+
+----
+
+If you want to become a psychotherapist
+
+----
+
+If you want to become a scientist
+
+----
+
+If you have participated in <br>a (small) research project
+
+----
+
+If you know how science works
+
+# <small>What are we doing here?</small>
+
+# <small>Homework</small>
+
+----
+
+Get an account at <a href="https://osf.io">https://osf.io</a>
+
+----
+
+Send an email to <a href="mailto:m.weiler@fu-berlin.de">m.weiler@fu-berlin.de</a>
