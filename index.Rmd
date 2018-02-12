@@ -6,6 +6,11 @@ output:
   revealjs::revealjs_presentation:
     theme: black
     center: TRUE
+    self_contained: FALSE
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      chalkboard: 
+      readonly: FALSE
 ---
 
 ```{r setup, include=FALSE}
@@ -42,6 +47,8 @@ I like free software
 
 I like open science
 
+
+
 # <small>Who are you?</small>
 
 ----
@@ -50,25 +57,65 @@ Please raise your hand ...
 
 ----
 
-If you study psychology
+... if you study psychology
 
 ----
 
-If you want to become a psychotherapist
+... if you want to become a psychotherapist
 
 ----
 
-If you want to become a scientist
+... if you want to become a scientist
 
 ----
 
-If you have participated in <br>a (small) research project
+... if you have participated in <br>a (small) research project
 
 ----
 
-If you know how science works
+... if you know what open science is
 
-# <small>What are we doing here?</small>
+
+# <small>What are you going to do here?</small>
+
+----
+
+In the course of this semester you will...
+
+----
+
+... learn what open science is
+
+----
+
+... learn how to cheat with science
+
+----
+
+... plan and conduct a small research project
+
+----
+
+... present your results to others
+
+
+
+# <small>So let's go</small>
+
+
+
+# <small>Science - how does it work?</small>
+
+----
+
+Please take 2 minutes to think about <br>
+how you would conduct a research project 
+
+----
+
+Now take 5 minutes to talk about your <br>
+thoughts with the person next to you
+
 
 # <small>Homework</small>
 
