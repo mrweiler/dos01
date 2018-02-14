@@ -1,5 +1,5 @@
 ---
-title: <small>Introduction to digital open science</small>
+title: <small>An introduction to digital open <br>research in clinical psychology</small>
 author: <small>Matthias Weiler</small>
 date: <small>14.02.2018</small>
 output:
@@ -49,7 +49,7 @@ I like open science
 
 
 
-# <small>Who are you?</small>
+# <small>And who are you?</small>
 
 ----
 
@@ -75,8 +75,13 @@ Please raise your hand ...
 
 ... if you know what open science is
 
+----
 
-# <small>What are you going to do here?</small>
+... if you are (a little) anxious <br>to speak English in class
+
+
+
+# <small>What are we going to do here?</small>
 
 ----
 
@@ -88,7 +93,11 @@ In the course of this semester you will...
 
 ----
 
-... learn how to cheat with science
+... get to know tools that help <br>you with your research
+
+----
+
+... learn how (not) to cheat with science
 
 ----
 
@@ -100,7 +109,11 @@ In the course of this semester you will...
 
 
 
-# <small>So let's go</small>
+# <small>Any questions so far?</small>
+
+
+
+# <small>Today:<br>Introduction to digital open science</small>
 
 
 
@@ -108,13 +121,170 @@ In the course of this semester you will...
 
 ----
 
-Please take 2 minutes to think about <br>
-how you would conduct a research project 
+Please take 2 minutes to think <br>
+about how you would conduct a <br>
+(small) research project from scratch
 
 ----
 
-Now take 5 minutes to talk about your <br>
-thoughts with the person next to you
+Now take 5 minutes to discuss <br>
+your thoughts with two people <br> 
+sitting next to you
+
+----
+
+What would be your steps?
+
+----
+
+My suggestions:
+
+----
+
+"Generate and specify hypothesis"
+
+----
+
+"Design study"
+
+----
+
+"Conduct study and collect data"
+
+----
+
+"Analyse data and test hypothesis"
+
+----
+
+"Interpret results"
+
+----
+
+"Publish and/or conduct next experiment"
+
+----
+
+The hypothetico-deductive model  
+![The hypothetico-deductive model](img/hypothetico_deductive_model.jpg)  
+<small>Source: Munafo et al. (2017)</small>
+
+
+# <small>How would you make this <br>process (more) open?</small>
+
+----
+
+Please take 2 minutes to think about it
+
+----
+
+Now take 5 minutes to discuss <br>
+your thoughts with your neighbors
+
+----
+
+The hypothetico-deductive model  
+![The hypothetico-deductive model](img/hypothetico_deductive_model.jpg)  
+<small>Source: Munafo et al. (2017)</small>
+
+----
+
+What would you do?
+
+
+
+# <small>Seven easy steps for open science</small>
+
+----
+
+by Mitja Back, Friederike Hendriks, <br>Felix Schönbrodt and the NOSI
+
+----
+
+1. Create an account at the <br>Open Science Framework
+
+----
+
+2. Preregister your studies
+
+----
+
+3. Open materials
+
+----
+
+4. Open data
+
+----
+
+5. Reproducible Code
+
+----
+
+6. Open Access
+
+----
+
+7. Do open research and talk about it
+
+
+
+# <small>Do you see any problems <br>regarding open science?</small>
+
+----
+
+Please take 2 minutes to think about it
+
+----
+
+Now take 5 minutes to discuss <br>
+your thoughts with your neighbors
+
+----
+
+What others are saying ...
+
+----
+
+"Someone could steal my idea"
+
+----
+
+"I am afraid someone could spot a mistake"
+
+----
+
+"I spent time and money collecting data <br>
+and I don't want others to use it"
+
+----
+
+"I don't want to risk the <br>anonymity of my subjects" 
+
+----
+
+"I want to use the data <br>for another study as well"
+
+----
+
+We will (hopefully) know more about <br>dealing with these problems <br>at the end of the semester
+
+
+
+# <small>Any more questions?</small>
+
+
+
+# <small>Next week preview</small>
+
+----
+
+Digital open scientist's toolbox - Part I
+
+----
+
+<a href="https://osf.io">The Open Science Framework</a>
+
 
 
 # <small>Homework</small>
@@ -125,4 +295,8 @@ Get an account at <a href="https://osf.io">https://osf.io</a>
 
 ----
 
-Send an email to <a href="mailto:m.weiler@fu-berlin.de">m.weiler@fu-berlin.de</a>
+Send your email address to <br><a href="mailto:m.weiler@fu-berlin.de">m.weiler@fu-berlin.de</a>
+
+
+
+# Thank you for your attention
